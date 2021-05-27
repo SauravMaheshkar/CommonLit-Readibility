@@ -4,3 +4,5 @@
 ## Model Files
 
 * [Roberta Variants](https://www.kaggle.com/sauravmaheshkar/huggingface-roberta-variants)
+* [BERT Variants](https://www.kaggle.com/sauravmaheshkar/huggingface-bert-variants)
+* [DeBERTa Variants](https://www.kaggle.com/sauravmaheshkar/huggingface-deberta-variants)
